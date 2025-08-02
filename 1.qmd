@@ -1,0 +1,79 @@
+---
+title: "William and Camille's Update"
+subtitle: "COMM 498"
+author: 
+  - name: "William Clinton Co"
+    affiliation: "The University of British Columbia"
+    email: "clinton.will.c@gmail.com"
+date: today
+date-format: "MMMM D, YYYY"
+abstract: |
+  TENTERRRRRR
+format:
+  pdf:
+    documentclass: article
+    geometry: 
+      - margin=1in
+    fontsize: 11pt
+    linestretch: 1
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    lof: false  # List of figures
+    lot: false  # List of tables
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    citecolor: blue
+    cite-method: biblatex
+    keep-tex: true
+    include-in-header:
+      - text: |
+          \usepackage{hyperref}
+          \hypersetup{
+            colorlinks=true,
+            linkcolor=blue,
+            urlcolor=blue,
+            breaklinks=true,
+            pdfborder={0 0 0}
+          }
+bibliography: references.bib
+---
+
+# Camille's Recomndataions
+
+## Roleplay
+
+ students have now learned about how firms act when engaging in IB; they should apply and test this knowledge in roleplay situations; professor evaluates how effective their choices are and whether this accurately reflects real decisions.
+
+### Interactive trade or market entry game
+
+ Turn international market analysis into a competitive activity where teams act as firms choosing where to expand. Each country option has different risk-reward profiles (tariffs, cultural barriers, supply chain complexity), and teams justify their choices. Makes theoretical frameworks more tangible. Acts as a low-stakes preliminary activity for final project - gets students acquainted with this, may assist them in ideation or execution of this project.
+
+
+### International crisis response simulation
+
+ Present a scenario involving a sudden geopolitical, economic, or health-related disruption. Students take on roles (e.g., regional director, risk analyst, COO) and collaborate to draft a real-time global adaptation strategy (encourages fast thinking and practical problem-solving.
+
+
+### Final Project - International Expansion Case
+
+Objective: Apply strategic analysis tools to identify and solve a company’s core business challenges within an international context, resulting in a recommendation that addresses both firm-specific and global market dynamics
+
+### Notes & suggestions:
+
+- Rubric could include section on presentation of case report (eg. visuals, organization of information, logical flow of report).
+- Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
+- Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
+
+# House Keeping
+
+William will be available for COMM 498, Term 1, Tuesdays and Thursdays from 11:00 AM to 12:30 PM in HA 291. Please let me know if you would like to meet this coming Monday (August 4 2025) from 3:00 PM to 5:00 PM, as well. 
+
+A copy of the slides can be found [here](https://drive.google.com/drive/folders/1mERxpYGLjzyM1umdXgnxXbv5GSljAkrd?usp=sharing).
+
+# Slides
+
+## Class 1
+Possible additional reading on inequality and economic growth: [The Impact of Wealth Inequality on Economic Growth](https://cepr.org/voxeu/columns/impact-wealth-inequality-economic-growth-evidence-italy-during-its-structural).
+
