@@ -8,9 +8,10 @@ author:
 date: today
 date-format: "MMMM D, YYYY"
 abstract: |
-  This document presents updated documents based of WIlliam and Ilans meeting on August 1 2025. This document provides some updates and reocmendations based on upcoming course COMM 498
+  This document presents updated materials based on William and Ilan's meeting on August 1, 2025 and provides updates and recommendations for the upcoming course COMM 498.
 format:
   pdf:
+    fig-pos: "H"  # Default position for all figures
     documentclass: article
     geometry: 
       - margin=1in
@@ -41,7 +42,7 @@ bibliography: references.bib
 ---
 
 
-# House Keeping
+# Housekeeping
 - William will meet with the Sauder Canvas assistant on Tuesday, August 5, 2025, to finalize course setup.
 - He has updated the syllabus with key dates and incorporated feedback from Ilan.
 - He removed the case studies that Ilan indicated were not of interest.
@@ -71,8 +72,7 @@ Additional reading on transshipment and tariff-circumvention strategies: [Trump 
 
 - The shown graphic below can be updated to a more modern aesthetic
 
-
-![2001 Graphic](images/Screenshot%202025-08-02%20013310.png){#fig-1 fig-alt="2001 Graphic" width="80%"}
+![2001 Graphic](images/Screenshot%202025-08-02%20013310.png){#fig-1 fig-alt="2001 Graphic" width="80%" fig-pos="H"}
 
 - Star TV case study maybe to dated (1993)
 
@@ -92,7 +92,7 @@ Additional reading on transshipment and tariff-circumvention strategies: [Trump 
 
 - The shown graphic below can be updated to a more modern aesthetic
 
-![Updated Modern Graphic](images/Screenshot%202025-08-02%20021857.png){#fig-2 fig-alt="Updated Modern Graphic" width="80%"}
+![Updated Modern Graphic](images/Screenshot%202025-08-02%20021857.png){#fig-2 fig-alt="Updated Modern Graphic" width="80%" fig-pos="H"}
 
 - Discuss the Renault-Nissan joint venture: [Designing Durable Alliances: Lessons from Renault-Nissan](https://knowledge.insead.edu/strategy/designing-durable-alliances-lessons-renault-nissan).
   -  [Another Source](https://archive.ph/khRN8#selection-1399.13-1419.71)
