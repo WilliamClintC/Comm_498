@@ -1,5 +1,5 @@
 ---
-title: "William and Camille's Update"
+title: "William's Update"
 subtitle: "COMM 498"
 author: 
   - name: "William Clinton Co"
@@ -8,7 +8,7 @@ author:
 date: today
 date-format: "MMMM D, YYYY"
 abstract: |
-  This document presents some reocmendations and c
+  This document presents updated documents based of WIlliam and Ilans meeting on August 1 2025. This document provides some updates and reocmendations based on upcoming course COMM 498
 format:
   pdf:
     documentclass: article
@@ -42,12 +42,10 @@ bibliography: references.bib
 
 
 # House Keeping
-
-William will be available for COMM 498, Term 1, Tuesdays and Thursdays from 11:00 AM to 12:30 PM in HA 291. Please let me know if you would like to meet this coming Monday (August 4 2025) from 3:00 PM to 5:00 PM, as well.
-
-A copy of the slides can be found [here](https://drive.google.com/drive/folders/1mERxpYGLjzyM1umdXgnxXbv5GSljAkrd?usp=sharing).
-
-William will be meeting with sauder canvas assitant this coming tuesday august 5 2025. William has also updated the Syllabus with dates and has also taken notes of the comments Ilan and WIlliam talked about. AT the same time WIlliam also removed the case studies Ilan mentioned he as not inrested in. A copy of the updates sullabus is found here C:\Users\Owner\Desktop\Comm_498\Slides\Comm498 2024WT2 Section201 Syllabus (1).docx 
+- William will meet with the Sauder Canvas assistant on Tuesday, August 5, 2025, to finalize course setup.
+- He has updated the syllabus with key dates and incorporated feedback from Ilan.
+- He removed the case studies that Ilan indicated were not of interest.
+- A copy of the updated syllabus is available [here](https://github.com/WilliamClintC/Comm_498/blob/main/Slides/William_Update_Syllabus.docx).
 
 # Slides
 
@@ -166,5 +164,7 @@ Objective: Apply strategic analysis tools to identify and solve a company’s co
 ### Notes & suggestions:
 
 -   Rubric could include section on presentation of case report (eg. visuals, organization of information, logical flow of report).
+-   Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
+-   Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
 -   Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
 -   Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
