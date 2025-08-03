@@ -40,21 +40,122 @@ format:
 bibliography: references.bib
 ---
 
-# Camille's Recomndataions
+
+# House Keeping
+
+William will be available for COMM 498, Term 1, Tuesdays and Thursdays from 11:00 AM to 12:30 PM in HA 291. Please let me know if you would like to meet this coming Monday (August 4 2025) from 3:00 PM to 5:00 PM, as well.
+
+A copy of the slides can be found [here](https://drive.google.com/drive/folders/1mERxpYGLjzyM1umdXgnxXbv5GSljAkrd?usp=sharing).
+
+# Slides
+
+## Class 1 Introduction
+
+Possible additional reading on inequality and economic growth: [The Impact of Wealth Inequality on Economic Growth](https://cepr.org/voxeu/columns/impact-wealth-inequality-economic-growth-evidence-italy-during-its-structural).
+
+## Class 2/3 Globalization and Slowbalization
+
+Possible additional reading on slowbalization and political polarization: [Globalisation Backlash](https://cepr.org/voxeu/columns/globalisation-backlash).
+
+## Class 4/5 Threats to globaalization and Gains and costs fromm trade
+
+Additional reading on Trump’s 30-Day Tariff Sprint: [Economist analyzes Trump’s trade deals as tariff deadline approaches](https://www.pbs.org/newshour/show/economist-analyzes-trumps-trade-deals-as-tariff-deadline-approaches).
+
+Additional reading on Liberation Day tariffs: [Liberation Day Tariffs Explained](https://www.csis.org/analysis/liberation-day-tariffs-explained#:~:text=In%20a%20Rose%20Garden%20event,place%20a%20universal%2010%20percent).
+
+## Class 6 Trade institutions
+
+Additional reading on transshipment and tariff-circumvention strategies: [Trump US–Vietnam trade deal and China transshipments](https://time.com/7300087/trump-us-vietnam-trade-deal-china-transshipments/).
+
+## Class 8/9 Internatiliazation and location
+
+- The shown graphic below can be updated to a more modern aesthetic
+
+
+![2001 Graphic](images/Screenshot%202025-08-02%20013310.png){#fig-1 fig-alt="2001 Graphic" width="80%"}
+
+- Star TV case study maybe to dated (1993)
+
+### Understanding Eastern Culture
+#### Ebay
+- Possible more recent study: [How eBay failed in China](https://www.forbes.com/sites/helenwang/2010/09/12/how-ebay-failed-in-china/)
+- More analysis on eBay’s China failure: [Why eBay failed in China – Taobao, Swift Guanxi](https://psmag.com/economics/why-ebay-failed-in-china-taobao-swift-guanxi-60072/)
+
+#### AirBNB
+- [Airbnb in China before, during, and after COVID-19](https://uq.pressbooks.pub/airbnb-978-1-74272-321-1/chapter/airbnb-in-china-before-during-and-after-covid-19/)
+- [Airbnb’s China exit: Strategic missteps in a complex market](https://medium.com/eastora-insights/airbnbs-china-exit-strategic-missteps-in-a-complex-market-86a26602e08d)
+
+#### Exercise
+- Do a location grid exercise
+
+## Class 13/14 FDI and M&A {#class13-14} 
+
+- The shown graphic below can be updated to a more modern aesthetic
+
+![Updated Modern Graphic](images/Screenshot%202025-08-02%20021857.png){#fig-2 fig-alt="Updated Modern Graphic" width="80%"}
+
+- Discuss the Renault-Nissan joint venture: [Designing Durable Alliances: Lessons from Renault-Nissan](https://knowledge.insead.edu/strategy/designing-durable-alliances-lessons-renault-nissan).
+  -  [Another Source](https://archive.ph/khRN8#selection-1399.13-1419.71)
+  
+## Class 11/12/16/17 Exporting, licsensing, global and regional strategsion, tehcnological disruptions
+- This exercise is acceptable. No further improvements are needed; it is a reasonable exercise.
+
+## Class 19 Political Risk
+
+Discuss the geopolitics of AI chips and related supply withholding issues:
+
+  - [AI Chip Controls, Smuggling, and Geopolitics](https://www.eetimes.com/ai-chip-controls-smuggling-and-geopolitics/)
+  - [FT: AI Chip Export Controls](https://www.ft.com/content/a13ba438-3b43-46dd-b332-4b81b3644da0)
+  - [Archived: AI Chip Geopolitics](https://archive.ph/jcX8b#selection-1999.6-2003.36)
+
+Discuss the politics of Didi's NYSE IPO and its aftermath:
+
+  - [Didi’s Delisting from NYSE and Its Implications](https://www.europeanguanxi.com/post/didi-s-delisting-from-nyse-and-its-implications-explained)
+  - [Atlantic Council: Lessons from the Didi IPO](https://www.atlanticcouncil.org/content-series/inflection-points/lessons-from-the-didi-ipo-ride-xi-faces-a-tradeoff-between-economic-dynamism-and-authoritarian-grip/)
+
+Recent ICE Raids:
+
+  - [Archived: ICE Raids](https://archive.ph/pp4xl)
+  - [Guardian: Trump Immigration Crackdown, Labor Shortages](https://www.theguardian.com/us-news/2025/jul/29/trump-immigration-crackdown-labor-shortages-slowdowns)
+
+Tiktok Politics:
+
+  - [National Security and the TikTok Ban](https://www.american.edu/sis/news/20250123-national-security-and-the-tik-tok-ban.cfm)
+  - [AP News: TikTok Ban Timeline](https://apnews.com/article/tiktok-ban-biden-timeline-india-119969bfc584e92d47baa189a3e1c4fc)
+
+## Class 21/22/23 Cross Cultural Management
+- Revisit the Renault–Nissan joint venture case ([Class 13/14](#class13-14)).
+- Discuss the role of religion in cross-cultural management practices.
+- Offtopic but it is a interesting story about the Colonel and Japan baseball: [The Curse of the Colonel (Cracked)](https://www.cracked.com/article_44709_the-japanese-baseball-team-cursed-by-colonel-sanders.html) and [HowStuffWorks: The Ridiculous History of the Curse of Colonel Sanders](https://history.howstuffworks.com/american-history/ridiculous-history-curse-colonel.htm)
+- [OpenAI in firm cultural clash](https://archive.ph/rR3Gt#selection-565.3-593.46)
+
+## Class 24 Ethics
+### Ethics of AI Use
+- IP and AI [The Week article on AI fair use](https://theweek.com/tech/ai-fair-use-copyrighted-media-trains-bots)
+- Raytheon Ethics: [RTX agrees to more than \$280 million in penalties to settle Qatar bribery & arms control violations](https://www.wsj.com/articles/rtx-agrees-to-more-than-280-million-in-penalties-to-settle-qatar-bribery-arms-control-violations-7368bf98?gaa_at=eafs&gaa_n=ASWzDAiE1z_s4buplQHYLUrzC8wR7x8ZeyDpQfmuQ1jNPC2pP_Jlvzp55qq7&gaa_sig=iVMI5Rj_kpBXM3-jcEi7EpdJeDq0X_0rZKIZSXoRcXHd1lx16d508-WH2zXsQ0gzXTPNK5K8Jg6y84RgOOK_IQ%3D%3D&gaa_ts=688be7a3)
+- Glencore Ethics: [Inside the bribery scandal that’s sweeping through the oil industry](https://www.wsj.com/articles/inside-the-bribery-scandal-thats-sweeping-through-the-oil-industry-1518543648?gaa_at=eafs&gaa_n=ASWzDAjonC0ZvhOArbiu8fQmhaoIAPVBIEzyrt6edgKhfrs68TM_sYuKhM5b&gaa_sig=QXWvAA2pGRTO0SMy3UziYWQM3VHC4AgG7DTH-45eimDi-Yb7zFq2Z069trhFEsfSzIxNZ985EXf6nfVzo_nRKg%3D%3D&gaa_ts=688be7a3)
+- OpenAI ethical disputes within companies: [OpenAI in firm cultural clash](https://archive.ph/rR3Gt#selection-565.3-593.46)
+- Glencore Ethics: [Inside the bribery scandal that’s sweeping through the oil industry](https://www.wsj.com/articles/inside-the-bribery-scandal-thats-sweeping-through-the-oil-industry-1518543648?gaa_at=eafs&gaa_n=ASWzDAjonC0ZvhOArbiu8fQmhaoIAPVBIEzyrt6edgKhfrs68TM_sYuKhM5b&gaa_sig=QXWvAA2pGRTO0SMy3UziYWQM3VHC4AgG7DTH-45eimDi-Yb7zFq2Z069trhFEsfSzIxNZ985EXf6nfVzo_nRKg%3D%3D&gaa_ts=688be7a3)
+- OpenAI ethical disputes within companies: [OpenAI in firm cultural clash](https://archive.ph/rR3Gt#selection-565.3-593.46)
+
+## Appendix
+- [Details about Lawrence Jones Case](https://www.youtube.com/watch?v=NJuogMaLva4)
+- I will be meeting with Sauder Canvas assistant this coming tuesday to add myself to canvas. 
+
+
+# William and Camille's Exercise Recomndataions
 
 ## Roleplay
 
- students have now learned about how firms act when engaging in IB; they should apply and test this knowledge in roleplay situations; professor evaluates how effective their choices are and whether this accurately reflects real decisions.
+students have now learned about how firms act when engaging in IB; they should apply and test this knowledge in roleplay situations; professor evaluates how effective their choices are and whether this accurately reflects real decisions.
 
 ### Interactive trade or market entry game
 
- Turn international market analysis into a competitive activity where teams act as firms choosing where to expand. Each country option has different risk-reward profiles (tariffs, cultural barriers, supply chain complexity), and teams justify their choices. Makes theoretical frameworks more tangible. Acts as a low-stakes preliminary activity for final project - gets students acquainted with this, may assist them in ideation or execution of this project.
-
+Turn international market analysis into a competitive activity where teams act as firms choosing where to expand. Each country option has different risk-reward profiles (tariffs, cultural barriers, supply chain complexity), and teams justify their choices. Makes theoretical frameworks more tangible. Acts as a low-stakes preliminary activity for final project - gets students acquainted with this, may assist them in ideation or execution of this project.
 
 ### International crisis response simulation
 
- Present a scenario involving a sudden geopolitical, economic, or health-related disruption. Students take on roles (e.g., regional director, risk analyst, COO) and collaborate to draft a real-time global adaptation strategy (encourages fast thinking and practical problem-solving.
-
+Present a scenario involving a sudden geopolitical, economic, or health-related disruption. Students take on roles (e.g., regional director, risk analyst, COO) and collaborate to draft a real-time global adaptation strategy (encourages fast thinking and practical problem-solving.
 
 ### Final Project - International Expansion Case
 
@@ -62,18 +163,6 @@ Objective: Apply strategic analysis tools to identify and solve a company’s co
 
 ### Notes & suggestions:
 
-- Rubric could include section on presentation of case report (eg. visuals, organization of information, logical flow of report).
-- Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
-- Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
-
-# House Keeping
-
-William will be available for COMM 498, Term 1, Tuesdays and Thursdays from 11:00 AM to 12:30 PM in HA 291. Please let me know if you would like to meet this coming Monday (August 4 2025) from 3:00 PM to 5:00 PM, as well. 
-
-A copy of the slides can be found [here](https://drive.google.com/drive/folders/1mERxpYGLjzyM1umdXgnxXbv5GSljAkrd?usp=sharing).
-
-# Slides
-
-## Class 1
-Possible additional reading on inequality and economic growth: [The Impact of Wealth Inequality on Economic Growth](https://cepr.org/voxeu/columns/impact-wealth-inequality-economic-growth-evidence-italy-during-its-structural).
-
+-   Rubric could include section on presentation of case report (eg. visuals, organization of information, logical flow of report).
+-   Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
+-   Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
