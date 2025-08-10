@@ -1,0 +1,240 @@
+---
+title: "William's Update"
+subtitle: "COMM 498"
+author: 
+  - name: "William Clinton Co"
+    affiliation: "The University of British Columbia"
+    email: "clinton.will.c@gmail.com"
+date: today
+date-format: "MMMM D, YYYY"
+abstract: |
+  This document presents updated materials based on William and Ilan's meeting on August 1, 2025 and provides updates and recommendations for the upcoming course COMM 498.
+format:
+  pdf:
+    fig-pos: "H"  # Default position for all figures
+    documentclass: article
+    geometry: 
+      - margin=1in
+    fontsize: 11pt
+    linestretch: 1
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    lof: false  # List of figures
+    lot: false  # List of tables
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    citecolor: blue
+    cite-method: biblatex
+    keep-tex: true
+    include-in-header:
+      - text: |
+          \usepackage{hyperref}
+          \hypersetup{
+            colorlinks=true,
+            linkcolor=blue,
+            urlcolor=blue,
+            breaklinks=true,
+            pdfborder={0 0 0}
+          }
+bibliography: references.bib
+---
+
+
+# Exercise Recommendations
+
+## Class 2: Globalization
+### End-of-class exercise question
+
+- Given the benefits of globalization, why is "slowbalization" occurring?
+
+### International crisis response simulation
+
+To apply strategic thinking under uncertainty and crisis shocks in international business, students will engage in a role-play scenario where groups of students will assume the roles of executives and plan their course of action.
+
+- Group 1: CEO
+- Group 2: Regional Director 
+- Group 3: Global Financial Manager
+- Group 4: International Business Development Manager
+
+Objective: In groups of 3-4, students will analyze a case in which their business is under threat of a global crisis (supply chain or finance-related). They will then design a plan to mitigate the impacts of this issue and maintain international operations, aligning with their respective executive role. This exercise will encourage students to critically examine globalization and the essential connections that underpin it. 
+
+Scenario example: 
+Your company is a mid-sized European retail brand expanding aggressively into Southeast Asia, Latin America, and Africa. You rely on an AI-based global logistics platform headquartered in Singapore to manage inventory flows, delivery coordination, and supplier tracking.
+
+Overnight, the system is compromised by a malware attack traced to a state-linked hacking group in Russia. Your AI platform is frozen, shipments are delayed, and customer data may be exposed. The breach puts your company’s supply chain, public image, and financial stability at risk.
+
+Simulation Flow:
+
+1. 10 minutes - Read the scenario and discuss within your group
+2. 15 minutes - Develop a strategic response from your role's perspective
+3. 5 minutes per group - Present your proposed response to the class
+4. Class-wide debrief - Reflect on alignment/conflict between roles and real-world relevance
+
+## Class 3: Slowbalization
+### End-of-class exercise question:
+
+- What is your prediction for the global economy in light of slowbalization? Will it continue or reverse? Explain your reasoning.
+
+## Class 5: Gains and Costs form Trade
+
+Turn international market analysis into a competitive activity where teams act as firms choosing where to expand. Each country option has different risk-reward profiles (tariffs, cultural barriers, supply chain complexity), and teams justify their choices. Makes theoretical frameworks more tangible. Acts as a low-stakes preliminary activity for final project - gets students acquainted with this, may assist them in ideation or execution of this project.
+
+### Cross-National Trade Simulation Activity
+To explore international trade and comparative advantage hands-on, students will work in small groups, each representing a different country.
+
+- Group 1: United States  
+- Group 2: China  
+- Group 3: Germany   
+- Group 4: Brazil  
+
+Objective: Using production data for two goods (e.g. cars and bananas), each group will:
+
+1. Calculate their opportunity cost for producing each good.
+2. Identify their country’s comparative advantage based on opportunity cost.
+3. Negotiate trade agreements with other countries to maximize mutual benefits using knowledge gained from the course material
+4. Strategically specialize in the good they produce most efficiently.
+5. Achieve the highest combined total output via smart specialization and trade.
+
+
+> This is a **timed competition:** the group that secures the most advantageous trade deals >and maximizes net gains from trade will be recognized as the top global trading nation.
+
+Guidelines: 
+- Use basic economic concepts (comparative advantage, opportunity cost, specialization, gains from trade)
+- Each trade must be recorded, including what was traded, with whom, and under what terms
+- You must be able to explain the rationale for your decisions and how opportunity costs informed your strategy
+
+Example: One team represents USA and the other Brazil
+
+| Country | Cars | Bananas |
+| ------ | ------ | ------ |
+| USA | 10 | 20 |
+| Brazil | 5 | 25 | 
+
+To determine the winner:
+
+1. Track all trades: Each group must keep a clear record of:
+   - Goods produced
+   - Goods traded (and with whom)
+   - Goods consumed after trade
+
+2. Calculate total benefit:
+   - Assign each good a value (e.g., Cars = 10 units, Bananas = 5 units)
+   - Sum the total value of the goods each country ends up with post-trade
+   - Assign a value to each good: Class can agree on a simple point system. For example:
+
+1 Car = 10 points  
+1 Banana = 5 points
+
+Now multiply:
+
+USA’s total value = (7 Cars × 10) + (15 Bananas × 5) = 70 + 75 = 145 points (if they chose to trade 3 cars)  
+Brazil’s total value = (3 Cars × 10) + (10 Bananas × 5) = 30 + 50 = 80 points (if they chose to trade 15 bananas)
+
+
+3. Subtract opportunity costs:
+   - Use your group’s production data to estimate how many units of the other good you gave up (opportunity cost) when producing
+   - Deduct this from your final value to calculate net benefit (Net Benefit = Final Goods Value – Opportunity Cost Value)
+   
+
+
+## Class 4/6/16/23 Current Threats to Globalization/Trade Institutions/ Global & Regional Strategies/ Exercise
+- Already contains sufficient exercises 
+
+## Class 8/9 Plans for Internationalization/ Location Decision
+
+- Add exercises on Ghemewat’s CAGE Framework 
+- Add exercises on Location Grid Evaluation
+
+## Class 11/12 Export and Licensing
+
+You are a company XYZ xonsidering to expand bt now you have to decide to export or license???? 
+
+
+## Class 13/14 FDI & M&A
+### End-of-class exercise question
+
+Could Daimler Chrysler Failures be avoided? How so? What is your recommendations?
+
+
+## Class 17: Technology Disruption
+
+### AI and Globalization Simulation Activity
+
+
+To explore how artificial intelligence (AI) influences globalization, students will work in small groups, each representing a distinct domain, sector, or industry affected by AI in the global economy.
+
+Group Assignments:
+- Group 1: Supply Chain and Logistics  
+- Group 2: Finance and Banking  
+- Group 3: Manufacturing and Automation  
+
+Objective: Using real-world examples and economic concepts discussed in class, each group will:
+
+1. Investigate how AI is transforming their assigned sector on a global scale.
+2. Identify 2–3 key ways AI has influenced labour, trade, or innovation across country borders
+3. Present a short “case” or simulated scenario that demonstrates how AI drives globalization in their sector.
+4. Explain the geopolitical, ethical, and economic implications of these changes.
+5. Compare AI's impact across sectors in a class-wide discussion on convergence/divergence in global outcomes.
+
+To Determine the Most Effective Group:
+
+1. **Content Depth**
+   - Did the group provide specific, well-researched examples?  
+   - Were connections to globalization clearly made?
+
+2. **Application of Course Concepts**
+   - Did the group reference key ideas such as technological diffusion, labour shifts, or ethical challenges?
+
+3. **Creativity and Clarity**
+   - Was the scenario engaging and easy to follow?  
+   - Did the group make the topic relevant to real-world IB challenges?
+
+4. **Discussion Facilitation**
+   - Did the group spark thoughtful discussion in the class-wide comparison?
+
+
+
+## Class 19 Political Risk
+
+You are Mills Manufacturing, a local US North Carolina parachute factory producing 5,000 parachutes a year, wherein a quarter of your workforce are immigrants working under temporary legal protection. Recent political developments have made it unfeasible for this quarter of your workforce to continue working. You are the CEO of Mills Manufacturing and need to make a decision. How will you cope with this sudden political shift?
+
+Relevant Links:
+  - [Only Two Companies Make Parachutes for U.S. Troops. Deportations Would Crush One](https://archive.ph/Sv9RA#selection-2617.85-2617.256)
+  - [ICE Raids](https://archive.ph/pp4xl)
+  - [Guardian: Trump Immigration Crackdown, Labor Shortages](https://www.theguardian.com/us-news/2025/jul/29/trump-immigration-crackdown-labor-shortages-slowdowns)
+
+## Class 21/22 Cross Cultural Management
+Role Play Exercise?
+
+# Final Project - International Expansion Case
+
+Objective: Apply strategic analysis tools to identify and solve a company’s core business challenges within an international context, resulting in a recommendation that addresses both firm-specific and global market dynamics
+
+### Notes & suggestions:
+
+-   Rubric could include section on presentation of case report (e.g., visuals, organization of information, logical flow of report).
+-   Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
+-   Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
+-   Could include contingency analysis: missing a risk assessment and plan to mitigate potential challenges.
+-   Important to consider how implementation would vary under conditions of different nations (political situation, tastes, social & economic factors)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
