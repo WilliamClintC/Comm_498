@@ -61,9 +61,11 @@ Below are the cases that need to be ordered, sourced from the syllabus and the h
 
 # CIBC: China is Not Blinking Paper 
 
+It is to note William only recieved the first page of the document. 
+
 ## Summary 
 
-China is experiencing greater economic pain than the US in the ongoing trade war. Over time, China has gradually distanced itself from US trade. However, China is not backing down due to its dominance in rare earth supplies—holding 70% of global production and 90% of refining capacity. 
+China is experiencing greater economic pain than the US in the ongoing trade war. Over time, China has gradually distanced itself from US trade. However, China is not backing down due to its dominance in rare earth supplies (holding 70% of global production and 90% of refining capacity). 
 
 In pharmaceuticals, China controls 90% of the world’s antibiotic active pharmaceutical ingredient (API) supply. While there are other suppliers, such as India, Indian pharmaceutical manufacturers rely on China for 80% of their pharmaceutical ingredients.
 
@@ -125,7 +127,7 @@ Simulation Flow:
 
 ## Class 5: Gains and Costs from Trade
 
-Turn international market analysis into a competitive activity where teams act as firms choosing where to expand. Each country option has different risk-reward profiles (tariffs, cultural barriers, supply chain complexity), and teams justify their choices. Makes theoretical frameworks more tangible. Acts as a low-stakes preliminary activity for final project - gets students acquainted with this, may assist them in ideation or execution of this project.
+Turn international market analysis into a competitive activity where teams act as firms choosing where to expand. Each country option has different risk-reward profiles (tariffs, cultural barriers, supply chain complexity), and teams justify their choices. Makes theoretical frameworks more tangible. Acts as a low-stakes preliminary activity for final project; gets students acquainted with this, may assist them in ideation or execution of this project.
 
 ### Cross-National Trade Simulation Activity
 
